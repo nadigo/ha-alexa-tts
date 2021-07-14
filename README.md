@@ -1,4 +1,8 @@
-# ha-alexa-tts
+# alexa-tts-homeassistant
+froked from: https://github.com/patriot1889/ha-alexa-tts
+based on:  https://github.com/thorsten-gehrig/alexa-remote-control
+
+
 Alexa Unsolicted TTS for Home Assistant
 
 Here is the unsolicited text to speech for Alexa devices that we have been waiting for!
